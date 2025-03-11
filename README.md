@@ -1,2 +1,4 @@
 # Personal-Expense-Tracker
-This is my first project and i make make changes as the time flows
+This is my first project and I will make changes as the time flows.
+<br>
+
